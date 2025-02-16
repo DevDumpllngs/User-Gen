@@ -11,7 +11,7 @@ const Banner = () => {
 
       {/* Imagen (No se mueve en PC, pero en móviles se ajusta con CSS) */}
       <div className="banner-image">
-        <img src="/banner.png" alt="Banner" className="banner-img" />
+      <img src={`${import.meta.env.BASE_URL}banner.png`} alt="Banner" className="banner-img" />
       </div>
 
       {/* Contenido principal (Ajustado solo en móviles con CSS) */}
