@@ -1,0 +1,40 @@
+.orb-container {
+    position: absolute;
+    width: 550px; 
+    height: 290px;
+    background: radial-gradient(circle, rgba(98, 0, 234, 0.6) 0%, rgba(98, 0, 234, 0.2) 80%);
+    filter: blur(60px);
+    border-radius: 50%;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+  }
+  
+  @media (max-width: 1024px) {
+    .orb-container {
+      width: 180px; 
+      height: 220px;
+      filter: blur(40px);
+      left: 48%; 
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .orb-container {
+      width: 150px; 
+      height: 190px;
+      filter: blur(35px);
+      left: 50%;
+      top: 55%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .orb-container {
+      width: 120px; 
+      height: 160px;
+      filter: blur(30px);
+      left: 50%;
+      top: 60%;
+    }
+  }
+  
