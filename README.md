@@ -10,7 +10,7 @@ User Gen es una plataforma que permite generar **usuarios aleatorios con datos c
 ✅ Desplegado en **Vercel** para una mejor experiencia.
 
 ## 📸 Vista Previa
-![Vista de la Web](./web.png)
+![Vista de la Web](/assets/web.png)
 
 ## 🔧 Instalación y Uso
 1. Clona el repositorio:
@@ -32,7 +32,7 @@ User Gen es una plataforma que permite generar **usuarios aleatorios con datos c
 5. Abre `http://localhost:5173/` en tu navegador.
 
 ## 🌐 Ver la Web en Línea
-👉 **[Acceder a User Gen](https://user-gen.vercel.app/)**
+👉 **[Acceder a User Gen](https://user-gen-tawny.vercel.app/)**
 
 ## 🤝 Contribuciones
 Si quieres contribuir, ¡haz un fork y envía un pull request!
