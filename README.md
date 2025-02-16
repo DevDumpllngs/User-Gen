@@ -1,38 +1,40 @@
-# 🌍 Mi Proyecto Web
+# 🌍 User Gen - Generador de Usuarios Aleatorios
 
-Bienvenido a **Mi Proyecto Web**, una plataforma diseñada para mejorar la experiencia de desarrollo web.  
+User Gen es una plataforma que permite generar **usuarios aleatorios con datos completos**, incluyendo nombres, direcciones, correos electrónicos y más. Ideal para desarrolladores, diseñadores y testers que necesitan datos ficticios pero realistas para sus proyectos.
 
 ## 🚀 Características
-✅ Diseño moderno y adaptable.  
-✅ Implementado con **React y TailwindCSS**.  
-✅ Animaciones fluidas con **Framer Motion**.  
-✅ Hosting en **GitHub Pages**.  
+✅ Generación de usuarios con información realista.
+✅ Datos completos: nombre, dirección, correo, teléfono, etc.
+✅ Interfaz rápida y fácil de usar.
+✅ Implementado con **React y TailwindCSS**.
+✅ Desplegado en **Vercel** para una mejor experiencia.
 
 ## 📸 Vista Previa
-![Vista de la Web](./assets/web.png)
+![Vista de la Web](./web.png)
 
 ## 🔧 Instalación y Uso
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/TU-USUARIO/mi-proyecto-web.git
+   git clone https://github.com/DevDumpllngs/User-Gen.git
    ```
 2. Ingresa en la carpeta del proyecto:
    ```sh
-   cd mi-proyecto-web
+   cd User-Gen
    ```
 3. Instala las dependencias:
    ```sh
    npm install
    ```
-4. Inicia el servidor:
+4. Inicia el servidor de desarrollo:
    ```sh
    npm run dev
    ```
 5. Abre `http://localhost:5173/` en tu navegador.
 
 ## 🌐 Ver la Web en Línea
-👉 **[Ver la Demo](https://tu-usuario.github.io/mi-proyecto-web/)**  
+👉 **[Acceder a User Gen](https://user-gen.vercel.app/)**
 
 ## 🤝 Contribuciones
 Si quieres contribuir, ¡haz un fork y envía un pull request!
 
+📌 **Desarrollado por DevDumpllngs**
