@@ -10,7 +10,7 @@ User Gen es una plataforma que permite generar **usuarios aleatorios con datos c
 ✅ Desplegado en **Vercel** para una mejor experiencia.
 
 ## 📸 Vista Previa
-![Vista de la Web](/assets/web.png)
+![Vista de la Web](https://github.com/DevDumpllngs/User-Gen-/blob/main/src/assets/web.png)
 
 ## 🔧 Instalación y Uso
 1. Clona el repositorio:
